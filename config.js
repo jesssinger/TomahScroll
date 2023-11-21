@@ -34,18 +34,8 @@ var config = {
             rotateAnimation: true,
             callback: '',
             onChapterEnter: [
-                {
-                    layer: 'baldeaglenests',
-                    opacity: 0,
-                    duration: 1000
-                }
-            ],
+                      ],
             onChapterExit: [
-                {
-                    layer: 'baldeaglenests',
-                    opacity: 1,
-                    duration: 1000
-                }
             ]
         },
 
